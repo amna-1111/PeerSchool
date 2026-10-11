@@ -1,16 +1,13 @@
-# React + Vite
+# PeerSchool
+I thought of making this project because I hate the idea of formal learning. I prefer informal learning myself and feel best at ease then. This is a simple skill-sharing platform where learners, teachers, or simply anyone can teach and learn anything they want. You can do both simultaneously. Nobody in this world is a know-it-all. We all are learners throughout our lives. You know how to code?, how to crochet a mug coaster?, got some tricks on how to improve handwriting?
+It can be anything! 
+Just add these in your skills, then specify your slots when you are free and can teach someone. Others will see it and book your class.
+It's just that simple.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Happy Learning!
 
-Currently, two official plugins are available:
+I just want to create a safe space where we all can just learn things because we want to, without any pressure of any kind.
+I hope we all find our love for learning. I am trying to find my way back. Hope you can do the same. xx
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+(now all the technical stuff:)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
